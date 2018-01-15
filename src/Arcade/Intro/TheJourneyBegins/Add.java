@@ -1,6 +1,6 @@
-package Arcade.Intro;
+package Arcade.Intro.TheJourneyBegins;
 
-public class _01Add {
+public class Add {
 
     int add(int param1, int param2) {
         return param1 + param2;

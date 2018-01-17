@@ -1,4 +1,4 @@
-package Arcade.Intro.TheJourneyBegins;
+package Arcade.Intro._00_TheJourneyBegins;
 
 public class Add {
 
